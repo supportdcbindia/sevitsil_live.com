@@ -663,7 +663,7 @@
                 <div class="section-content">
                     <div class="section-title-wrapper">
                         <div class="title-wrapper">
-                            <h2 class="section-title font-instrumentsans-medium char-anim"><a href="javascript:;"
+                            <h2 class="section-title font-instrumentsans-medium"><a href="javascript:;"
                                     class="click1">Let’s
                                     Work</a></h2>
                         </div>
