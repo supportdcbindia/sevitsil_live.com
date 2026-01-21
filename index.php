@@ -659,7 +659,7 @@
     <section class="cta-area">
         <div class="cta-area-inner section-spacing">
             <div class="area-bg"></div>
-            <div class="container large">
+            <div >
                 <div class="section-content">
                     <div class="section-title-wrapper">
                         <div class="title-wrapper">
